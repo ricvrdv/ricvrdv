@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello world. Ricardo here 👋
+I'm a passionate biologist currently studying software development at 42 Porto.
 
+Check out [my profile](https://www.linkedin.com/in/ricardo-costa-garcia/) on LinkedIn to know more about me.
 <!--
-**ricvrdv/ricvrdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **ricvrdv/ricvrdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
