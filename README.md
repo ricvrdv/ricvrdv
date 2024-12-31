@@ -1,7 +1,7 @@
 # Hello world. Ricardo here 👋
 I'm a passionate biologist currently studying software development at 42 Porto.
 
-![ricardo garcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricvrdv&show_icons=true&theme=merko&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvrdv&layout=compact&theme=merko)
 
 ## 42 SCHOOL PROJECTS
 | PROJECT                                                   | STATUS    | SCORE   |
