@@ -12,5 +12,8 @@ I'm a passionate biologist currently studying software development at 42 Porto.
 | [ft_printf](https://github.com/ricvrdv/ft_printf)         | Completed | 100/100 |
 | [Born2beRoot](https://github.com/ricvrdv/Born2beRoot)     | Completed | 110/100 |
 | [get_next_line](https://github.com/ricvrdv/get_next_line) | Completed | 100/100 |
+| **MILESTONE 2**                                           | -         | -       |
+| Exam Rank 02                                              | Completed | 100/100 |
+| push_swap                                                 | Ongoing   | ...     |
 
 Check out [my profile](https://www.linkedin.com/in/ricardo-costa-garcia/) on LinkedIn to know more about me.
