@@ -3,6 +3,12 @@ I'm a passionate biologist currently studying software development at 42 Porto.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvrdv&layout=compact&theme=merko)
 
+## MY LAST PROJECT
+
+<p align="center">
+  <img src="https://github.com/ricvrdv/so_long/blob/main/so_long.gif" alt="So Long">
+</p>
+
 ## 42 SCHOOL PROJECTS
 | PROJECT                                                   | STATUS    | SCORE   | DESCRIPTION |
 | --------------------------------------------------------- | --------- | ------- | ----------- |
