@@ -9,7 +9,7 @@ I'm a passionate biologist currently studying software development at 42 Porto.
   <img src="https://github.com/ricvrdv/so_long/blob/main/so_long.gif" alt="So Long">
 </p>
 
-    Check out my repository for this project - [so_long](https://github.com/ricvrdv/so_long)
+  Check out my repository for this project - [so_long](https://github.com/ricvrdv/so_long)
 
 ## 42 SCHOOL PROJECTS
 | PROJECT                                                   | STATUS    | SCORE   | DESCRIPTION |
