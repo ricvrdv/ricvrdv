@@ -12,6 +12,11 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
   Check out my repository for this project - [so_long](https://github.com/ricvrdv/so_long)
 
 ## 42 SCHOOL PROJECTS 🧑🏻‍💻
+
+|RANK 00 | STATUS | DESCRIPTION |
+| --- | --- | --- |
+|[LIBFT](https://github.com/ricvrdv/libft)| ✅ | Crafting a Custom C Standard Library |
+
 | PROJECT                                                   | STATUS    | SCORE   | DESCRIPTION |
 | --------------------------------------------------------- | --------- | ------- | ----------- |
 | **RANK 00**                                           | -         | -       | -           |
