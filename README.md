@@ -1,4 +1,4 @@
-# HELLO WORLD. RICARDO HERE 👋
+## HI, I'M RICARDO 👋
 I’m a Marine Biologist turned Software Developer at 42 Porto. With a background in marine sciences and bioinformatics, I’m now focused on programming and algorithmic problem-solving.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvrdv&layout=compact&theme=merko)
