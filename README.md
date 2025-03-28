@@ -29,8 +29,8 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 | [PIPEX](https://github.com/ricvrdv/pipex) | ✅ | Recreating Unix Pipelines in C |
 | [SO_LONG](https://github.com/ricvrdv/so_long) | ✅ | 2D Game Development in C |
 
-| RANK 02 | STATUS | DESCRIPTION |
+| RANK 03 | STATUS | DESCRIPTION |
 | --- | --- | --- |
-| MINISHELL | 👷🏻 | Building a Simple Unix Shell in C |
+| MINISHELL | 👷🏻🛠️ | Building a Simple Unix Shell in C |
 
 Check out [my profile](https://www.linkedin.com/in/ricardo-costa-garcia/) on LinkedIn to know more about me.
