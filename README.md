@@ -3,7 +3,7 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvrdv&layout=compact&theme=merko)
 
-## MY LAST PROJECT
+## MY LATEST PROJECT
 
 <p align="center">
   <img src="https://github.com/ricvrdv/so_long/blob/main/so_long.gif" alt="So Long">
