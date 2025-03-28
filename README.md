@@ -34,3 +34,7 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 | MINISHELL | 👷🏻🛠️ | Building a Simple Unix Shell in C |
 
 Check out [my profile](https://www.linkedin.com/in/ricardo-costa-garcia/) on LinkedIn to know more about me.
+
+## 📫 HOW TO REACH ME:
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ricardo-costa-garcia/))
+- [Email](costagarcia.r95@gmail.com)
