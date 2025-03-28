@@ -8,8 +8,8 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 
 ## TOOLS
 ![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
-![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
+![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 
 ## MY LATEST PROJECT 🐸
 
