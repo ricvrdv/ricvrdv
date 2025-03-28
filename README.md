@@ -35,4 +35,4 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 
 ## HOW TO REACH ME 📬
 - [LinkedIn](https://www.linkedin.com/in/ricardo-costa-garcia/)
-- [Email](costagarcia.r95@gmail.com)
+- Email: costagarcia.r95@gmail.com
