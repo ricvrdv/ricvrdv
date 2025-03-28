@@ -6,7 +6,7 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricvrdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-## TOOLS
+## TOOLS 🛠️
 ![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
