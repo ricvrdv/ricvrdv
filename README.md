@@ -18,7 +18,7 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 </p>
 
 <div align="center">
-  Check out my repository for this project - [so_long](https://github.com/ricvrdv/so_long)
+  Check out my repository for this project - https://github.com/ricvrdv/so_long
 </div>
 
 ## 42 SCHOOL PROJECTS 🧑🏻‍💻
