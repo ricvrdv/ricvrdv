@@ -42,7 +42,7 @@ I’m a Marine Biologist turned Software Developer at 42 Porto. With a backgroun
 | MILESTONE 03  | STATUS  | DESCRIPTION                            |
 |----------|:---------:|----------------------------------------|
 | [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | ✅ | Multi-threaded simulation using POSIX threads in C. |
-| MINISHELL | ✅ | Building a Simple Unix Shell in C |
+| [MINISHELL](https://github.com/ricvrdv/Minishell) | ✅ | Building a Simple Unix Shell in C |
 
 ## HOW TO REACH ME 📬
 - [LinkedIn](https://www.linkedin.com/in/ricardo-costa-garcia/)
