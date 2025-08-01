@@ -1,5 +1,11 @@
 ## HI, I'M RICARDO 👋
-I’m a Marine Biologist turned Software Developer at 42 Porto. With a background in marine sciences and bioinformatics, I’m now focused on programming and algorithmic problem-solving.
+I'm a software developer currently focused on C, C++, Linux, and Bash scripting.
+
+I originally studied Biology and later specialized in Bioinformatics, which is where I got into coding through Python — and I’ve been hooked ever since.
+
+These days, I'm fully focused on tech, always learning, and always looking for interesting problems to solve. I enjoy building things that are clean ✅, efficient 📊, and actually work ⚙️
+
+Always up for new challenges, cool projects, and learning something unexpected along the way!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricvrdv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
