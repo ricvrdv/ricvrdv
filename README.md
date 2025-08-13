@@ -3,7 +3,7 @@ I'm a software developer currently focused on C, C++, Linux, and Bash scripting.
 
 I originally studied Biology and later specialized in Bioinformatics, which is where I got into coding through Python — and I’ve been hooked ever since.
 
-These days, I'm fully focused on tech, always learning, and always looking for interesting problems to solve. I enjoy building things that are clean ✅, efficient 📊, and actually work ⚙️
+Currently studying at 42 Porto, I'm fully focused on tech, always learning, and always looking for interesting problems to solve. I enjoy building things that are clean ✅, efficient 📊, and actually work ⚙️
 
 Always up for new challenges, cool projects, and learning something unexpected along the way!
 
