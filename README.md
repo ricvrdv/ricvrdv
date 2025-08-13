@@ -32,7 +32,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
 | PROJECT | LANGUAGES | TOOLS | DESCRIPTION |
 |---|---|---|---|
 |**MILESTONE 04**|
-| [C++ Modules](https://github.com/ricvrdv/cpp-modules/tree/main) | C++ | Makefile, Valgrind | Series of projects exploring C++ fundamentals |
+| [C++ MODULES](https://github.com/ricvrdv/cpp-modules/tree/main) | C++ | Makefile, Valgrind | Series of projects exploring C++ fundamentals |
 |**MILESTONE 03**|
 | [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, gdb | Building a Simple Unix Shell in C |
 | [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C |
