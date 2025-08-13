@@ -35,7 +35,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
 | [C++ Modules](https://github.com/ricvrdv/cpp-modules/tree/main) | C++ | Makefile, Valgrind | Series of projects exploring C++ fundamentals |
 |**MILESTONE 03**|
 | [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, gdb | Building a Simple Unix Shell in C |
-| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C. |
+| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C |
 |**MILESTONE 02**|
 | [SO_LONG](https://github.com/ricvrdv/so_long) | C | Makefile, Minilibx, Valgrind, gdb | 2D Game Development in C |
 | [PIPEX](https://github.com/ricvrdv/pipex) | C | Makefile, Valgrind, gdb | Recreating Unix Pipelines in C |
