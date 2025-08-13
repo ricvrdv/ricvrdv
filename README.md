@@ -29,26 +29,23 @@ Always up for new challenges, cool projects, and learning something unexpected a
 
 ## 42 SCHOOL PROJECTS 🧑🏻‍💻
 
-| MILESTONE 03  | STATUS  | DESCRIPTION                            |
-|----------|:---------:|----------------------------------------|
-| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | ✅ | Multi-threaded simulation using POSIX threads in C. |
-| [MINISHELL](https://github.com/ricvrdv/Minishell) | ✅ | Building a Simple Unix Shell in C |
-
-| MILESTONE 02  | STATUS  | DESCRIPTION                            |
-|----------|:---------:|----------------------------------------|
-| [PUSH_SWAP](https://github.com/ricvrdv/push_swap) | ✅ | Sorting Algorithm Optimization in C |
-| [PIPEX](https://github.com/ricvrdv/pipex) | ✅ | Recreating Unix Pipelines in C |
-| [SO_LONG](https://github.com/ricvrdv/so_long) | ✅ | 2D Game Development in C |
-
-| MILESTONE 01   | STATUS    | DESCRIPTION                                                                        |
-|-----------|:-----------:|------------------------------------------------------------------------------------|
-| [FT_PRINTF](https://github.com/ricvrdv/ft_printf) | ✅ | Custom Implementation of printf in C             |
-| [GET_NEXT_LINE](https://github.com/ricvrdv/get_next_line) | ✅ | Efficient Line-by-Line File Reading in C |
-| [BORN2BEROOT](https://github.com/ricvrdv/Born2beRoot) | ✅ | Mastering Linux System Administration        |
-
-| MILESTONE 00   | STATUS    | DESCRIPTION                                                                        |
-|-----------|:-----------:|------------------------------------------------------------------------------------|
-| [LIBFT](https://github.com/ricvrdv/libft) | ✅ | Crafting a Custom C Standard Library                     |
+| Project | Languages | Tools | Description |
+|---|---|---|---|
+|**Milestone 04**|
+| C++ Modules 00-04 | C++ | Makefile, Valgrind | |
+|**Milestone 03**|
+| [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, gdb | Building a Simple Unix Shell in C |
+| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C. |
+|**Milestone 02**|
+| [SO_LONG](https://github.com/ricvrdv/so_long) | C | Makefile, Minilibx, Valgrind, gdb | 2D Game Development in C |
+| [PIPEX](https://github.com/ricvrdv/pipex) | C | Makefile, Valgrind, gdb | Recreating Unix Pipelines in C |
+| [PUSH_SWAP](https://github.com/ricvrdv/push_swap) | C | Makefile, Valgrind, gdb | Sorting Algorithm Optimization in C |
+|**Milestone 01**|
+| [BORN2BEROOT](https://github.com/ricvrdv/Born2beRoot) | Bash | Debian OS, Oracle VirtualBox | Mastering Linux System Administration |
+| [GET_NEXT_LINE](https://github.com/ricvrdv/get_next_line) | C | Makefile, Valgrind, gdb | Efficient Line-by-Line File Reading in C |
+| [FT_PRINTF](https://github.com/ricvrdv/ft_printf) | C | Makefile, gdb | Custom Implementation of the C standard library function `printf` |
+|**Milestone 00**|
+| [LIBFT](https://github.com/ricvrdv/libft) | C | Makefile, Valgrind, gdb | Crafting a Custom C Standard Library |
 
 ## HOW TO REACH ME 📬
 - [LinkedIn](https://www.linkedin.com/in/ricardo-costa-garcia/)
