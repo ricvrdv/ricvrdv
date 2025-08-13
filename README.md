@@ -17,7 +17,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 
-## 2D Game in C 🐸
+## 2D GAME WRITTEN IN C 🐸
 
 <p align="center">
   <img src="https://github.com/ricvrdv/so_long/blob/main/so_long.gif" alt="So Long">
@@ -29,22 +29,22 @@ Always up for new challenges, cool projects, and learning something unexpected a
 
 ## 42 SCHOOL PROJECTS 🧑🏻‍💻
 
-| Project | Languages | Tools | Description |
+| PROJECT | LANGUAGES | TOOLS | DESCRIPTION |
 |---|---|---|---|
-|**Milestone 04**|
+|**MILESTONE 04**|
 | C++ Modules 00-04 | C++ | Makefile, Valgrind | |
-|**Milestone 03**|
+|**MILESTONE 03**|
 | [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, gdb | Building a Simple Unix Shell in C |
 | [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C. |
-|**Milestone 02**|
+|**MILESTONE 02**|
 | [SO_LONG](https://github.com/ricvrdv/so_long) | C | Makefile, Minilibx, Valgrind, gdb | 2D Game Development in C |
 | [PIPEX](https://github.com/ricvrdv/pipex) | C | Makefile, Valgrind, gdb | Recreating Unix Pipelines in C |
 | [PUSH_SWAP](https://github.com/ricvrdv/push_swap) | C | Makefile, Valgrind, gdb | Sorting Algorithm Optimization in C |
-|**Milestone 01**|
+|**MILESTONE 01**|
 | [BORN2BEROOT](https://github.com/ricvrdv/Born2beRoot) | Bash | Debian OS, Oracle VirtualBox | Mastering Linux System Administration |
 | [GET_NEXT_LINE](https://github.com/ricvrdv/get_next_line) | C | Makefile, Valgrind, gdb | Efficient Line-by-Line File Reading in C |
 | [FT_PRINTF](https://github.com/ricvrdv/ft_printf) | C | Makefile, gdb | Custom Implementation of the C standard library function `printf` |
-|**Milestone 00**|
+|**MILESTONE 00**|
 | [LIBFT](https://github.com/ricvrdv/libft) | C | Makefile, Valgrind, gdb | Crafting a Custom C Standard Library |
 
 ## HOW TO REACH ME 📬
