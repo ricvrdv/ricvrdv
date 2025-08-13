@@ -17,7 +17,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
 
-## SO_LONG PROJECT 🐸
+## 2D Game in C 🐸
 
 <p align="center">
   <img src="https://github.com/ricvrdv/so_long/blob/main/so_long.gif" alt="So Long">
