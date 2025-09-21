@@ -12,13 +12,17 @@ Always up for new challenges, cool projects, and learning something unexpected a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricvrdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+## CURRENT PROJECT 🚧
+[Cub3D](https://github.com/ricvrdv/cub3d):
+- A simplified version of the classic Wolfenstein 3D ray-casting engine built from scratch in C.
+- It is a foundational group project in the 42 curriculum that teaches graphics programming and collaboration.
+- Mastering the secrets of `git` for effective version control.
+
+
 ## TOOLS 🛠️
 ![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
-
-## CURRENT PROJECT 
-[cub3d](https://github.com/ricvrdv/cub3d): A simplified version of the classic Wolfenstein 3D ray-casting engine built from scratch in C.
 
 ## 2D GAME WRITTEN IN C 🐸
 
