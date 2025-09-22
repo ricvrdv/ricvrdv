@@ -21,15 +21,26 @@ Always up for new challenges, cool projects, and learning something unexpected a
 
 ## TOOLS & TECHNOLOGIES 🛠️
 
-**LANGUAGES:** C, C++, Python
+**LANGUAGES:** 
 
-**OS:** Linux (Primary development environment)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**VERSION CONTROL:** Git
+**OS:** 
 
-**DEBUGGING:** GDB (for code analysis and troubleshooting), Valgrind (for memory leak detection)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**EDITOR:** Vim, Visual Studio Code
+**VERSION CONTROL:** 
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**DEBUGGING:**
+
+![GDB](https://img.shields.io/badge/GDB-DD0031?style=for-the-badge) 
+![Valgrind](https://img.shields.io/badge/Valgrind-5E5E5E?style=for-the-badge)
+
+**EDITOR:** 
+
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 2D GAME WRITTEN IN C 🐸
 
