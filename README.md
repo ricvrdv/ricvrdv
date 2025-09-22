@@ -19,10 +19,17 @@ Always up for new challenges, cool projects, and learning something unexpected a
 - Mastering the secrets of `git` for effective version control.
 
 
-## TOOLS 🛠️
-![gdb](https://img.shields.io/badge/gdb-0D1117.svg?style=for-the-badge&logo=gnu&logoColor=F5942C)
-![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
-![valgrind](https://img.shields.io/badge/%F3%B1%97%80%20%20valgrind-v?style=for-the-badge&logo=horse&labelColor=000&color=000)
+## TOOLS & TECHNOLOGIES 🛠️
+
+**LANGUAGES:** C, C++, Python
+
+**OS:** Linux (Primary development environment)
+
+**VERSION CONTROL:** Git
+
+**DEBUGGING:** GDB (for code analysis and troubleshooting), Valgrind (for memory leak detection)
+
+**EDITOR:** Vim, Visual Studio Code
 
 ## 2D GAME WRITTEN IN C 🐸
 
