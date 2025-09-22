@@ -21,26 +21,17 @@ Always up for new challenges, cool projects, and learning something unexpected a
 
 ## TOOLS & TECHNOLOGIES 🛠️
 
-**LANGUAGES:** 
+![LANGUAGES](https://img.shields.io/badge/LANGUAGES:-DD0031?style=for-the-badge&color=white)![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OS:](https://img.shields.io/badge/OS:-DD0031?style=for-the-badge&color=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**OS:** 
+![VERSION CONTROL:](https://img.shields.io/badge/VERSION_CONTROL:-DD0031?style=for-the-badge&color=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**VERSION CONTROL:** 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**DEBUGGING:**
-
+![DEBUGGING:](https://img.shields.io/badge/DEBUGGING:-DD0031?style=for-the-badge&color=white)
 ![GDB](https://img.shields.io/badge/GDB-DD0031?style=for-the-badge) 
 ![Valgrind](https://img.shields.io/badge/Valgrind-5E5E5E?style=for-the-badge)
 
-**EDITOR:** 
-
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![EDITORS:](https://img.shields.io/badge/EDITORS:-DD0031?style=for-the-badge&color=white)![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 2D GAME WRITTEN IN C 🐸
 
