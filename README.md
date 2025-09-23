@@ -48,20 +48,21 @@ Always up for new challenges, cool projects, and learning something unexpected a
 | PROJECT | LANGUAGES | TOOLS | DESCRIPTION |
 |---|---|---|---|
 |**MILESTONE 04**|
+| [CUB3D](https://github.com/ricvrdv/cub3d) (ongoing) | C | Makefile, Minilibx, Valgrind, GDB | A 3D raycasting game inspired by Wolfenstein 3D, built in C with the MiniLibX graphics library |
 | [C++ MODULES](https://github.com/ricvrdv/cpp-modules/tree/main) | C++ | Makefile, Valgrind | Series of projects exploring C++ fundamentals |
 |**MILESTONE 03**|
-| [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, gdb | Building a Simple Unix Shell in C |
-| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, gdb | Multi-threaded simulation using POSIX threads in C |
+| [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, GDB | Building a Simple Unix Shell in C |
+| [PHILOSOPHERS](https://github.com/ricvrdv/philosophers) | C | Makefile, Valgrind, GDB | Multi-threaded simulation using POSIX threads in C |
 |**MILESTONE 02**|
-| [SO_LONG](https://github.com/ricvrdv/so_long) | C | Makefile, Minilibx, Valgrind, gdb | 2D Game Development in C |
-| [PIPEX](https://github.com/ricvrdv/pipex) | C | Makefile, Valgrind, gdb | Recreating Unix Pipelines in C |
-| [PUSH_SWAP](https://github.com/ricvrdv/push_swap) | C | Makefile, Valgrind, gdb | Sorting Algorithm Optimization in C |
+| [SO_LONG](https://github.com/ricvrdv/so_long) | C | Makefile, Minilibx, Valgrind, GDB | 2D Game Development in C |
+| [PIPEX](https://github.com/ricvrdv/pipex) | C | Makefile, Valgrind, GDB | Recreating Unix Pipelines in C |
+| [PUSH_SWAP](https://github.com/ricvrdv/push_swap) | C | Makefile, Valgrind, GDB | Sorting Algorithm Optimization in C |
 |**MILESTONE 01**|
 | [BORN2BEROOT](https://github.com/ricvrdv/Born2beRoot) | Bash | Debian OS, Oracle VirtualBox | Mastering Linux System Administration |
-| [GET_NEXT_LINE](https://github.com/ricvrdv/get_next_line) | C | Makefile, Valgrind, gdb | Efficient Line-by-Line File Reading in C |
-| [FT_PRINTF](https://github.com/ricvrdv/ft_printf) | C | Makefile, gdb | Custom Implementation of the C standard library function `printf` |
+| [GET_NEXT_LINE](https://github.com/ricvrdv/get_next_line) | C | Makefile, Valgrind, GDB | Efficient Line-by-Line File Reading in C |
+| [FT_PRINTF](https://github.com/ricvrdv/ft_printf) | C | Makefile, GDB | Custom Implementation of the C standard library function `printf` |
 |**MILESTONE 00**|
-| [LIBFT](https://github.com/ricvrdv/libft) | C | Makefile, Valgrind, gdb | Crafting a Custom C Standard Library |
+| [LIBFT](https://github.com/ricvrdv/libft) | C | Makefile, Valgrind, GDB | Crafting a Custom C Standard Library |
 
 ## HOW TO REACH ME 📬
 - [LinkedIn](https://www.linkedin.com/in/ricardo-costa-garcia/)
