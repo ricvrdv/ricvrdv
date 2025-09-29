@@ -12,7 +12,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricvrdv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-## CURRENT PROJECT 🚧
+## MOST RECENT PROJECT
 [Cub3D](https://github.com/ricvrdv/cub3d):
 - A simplified version of the classic Wolfenstein 3D ray-casting engine built from scratch in C.
 - It is a foundational group project in the 42 curriculum that teaches graphics programming and collaboration.
@@ -48,7 +48,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
 | PROJECT | LANGUAGES | TOOLS | DESCRIPTION |
 |---|---|---|---|
 |**MILESTONE 04**|
-| [CUB3D](https://github.com/ricvrdv/cub3d) (ongoing) | C | Makefile, Minilibx, Valgrind, GDB | A 3D raycasting game inspired by Wolfenstein 3D, built in C with the MiniLibX graphics library |
+| [CUB3D](https://github.com/ricvrdv/cub3d) | C | Makefile, Minilibx, Valgrind, GDB | A 3D raycasting game inspired by Wolfenstein 3D, built in C with the MiniLibX graphics library |
 | [C++ MODULES](https://github.com/ricvrdv/cpp-modules/tree/main) | C++ | Makefile, Valgrind | Series of projects exploring C++ fundamentals |
 |**MILESTONE 03**|
 | [MINISHELL](https://github.com/ricvrdv/Minishell) | C | Makefile, Valgrind, GDB | Building a Simple Unix Shell in C |
