@@ -18,6 +18,9 @@ Always up for new challenges, cool projects, and learning something unexpected a
 - It is a foundational group project in the 42 curriculum that teaches graphics programming and collaboration.
 - Mastering the secrets of `git` for effective version control.
 
+<p align="center">
+  <img src="https://github.com/ricvrdv/cub3d/blob/main/cub3d.gif" alt="Game snippet"
+</p>
 
 ## TOOLS & TECHNOLOGIES 🛠️
 
