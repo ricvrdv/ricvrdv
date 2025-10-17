@@ -41,6 +41,16 @@ Always up for new challenges, cool projects, and learning something unexpected a
   Check out my repository for this project - https://github.com/ricvrdv/so_long
 </div>
 
+## My Personal Website
+
+<p align="center">
+  <img src="https://github.com/ricvrdv/ricvrdv/blob/main/website_snippet.gif" alt="Website snippet">
+</p>
+
+<div align="center">
+  Check out my repository for this project - https://github.com/ricvrdv/ricvrdv.github.io
+</div>
+
 ## 42 SCHOOL PROJECTS 🧑🏻‍💻
 
 | PROJECT | LANGUAGES | TOOLS | DESCRIPTION |
