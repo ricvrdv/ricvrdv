@@ -41,7 +41,7 @@ Always up for new challenges, cool projects, and learning something unexpected a
   Check out my repository for this project - https://github.com/ricvrdv/so_long
 </div>
 
-## My Personal Website
+## MY PERSONAL WEBSITE USING HTML5 AND CSS3
 
 <p align="center">
   <img src="https://github.com/ricvrdv/ricvrdv/blob/main/website_snippet.gif" alt="Website snippet">
